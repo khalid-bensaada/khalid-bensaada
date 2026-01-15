@@ -36,11 +36,7 @@ I love learning and working on new projects using modern technologies.
 
 ---
 
-## 📊 GitHub Stats
 
-![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
----
 
 
